@@ -11,9 +11,15 @@ h6{
   padding-top: 10px;
 }
 
-
+p{
+  color:white;
+}
 .navbar{
   background-color: #298A08;
+}
+
+.cor4{
+  color:white;
 }
 
 .quem-somos{
